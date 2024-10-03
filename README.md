@@ -29,6 +29,5 @@
 
 ## Contact Me
 - Blog: `satramadhani.wordpress.com`
-- E-mail: `satramadhani@outlook.co.id`
 - Instagram: `sat.ramadhani` *(Currently Deactivated)*
 - LinkedIn: `in/satramadhani` *(Currently Deactivated)*
