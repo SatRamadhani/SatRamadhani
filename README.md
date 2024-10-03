@@ -11,7 +11,7 @@
 ## About Me
 - 🔭 Working on **C#** and **ASP.NET** projects.
 - 📖 Trying to learn **Game Development** and **Software Architecture**.
-- 🤝 Looking to collaborate on **Game/Mobile App Development**.
+- 🤝 Looking to collaborate on... **nothing**. Contact me for collaboration, though.
 - 💬 Let's discuss about C++, C#, or Java.
 - 📫 Reach me through the contact part.
 <br />
@@ -28,5 +28,7 @@
 <br />
 
 ## Contact Me
-- https://www.instagram.com/sat.ramadhani *(Currently Deactivated)*
-- https://www.linkedin.com/in/satramadhani *(Currently Deactivated)*
+- Blog: `satramadhani.wordpress.com`
+- E-mail: `satramadhani@outlook.co.id`
+- Instagram: `sat.ramadhani` *(Currently Deactivated)*
+- LinkedIn: `satramadhani` *(Currently Deactivated)*
