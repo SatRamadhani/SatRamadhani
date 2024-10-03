@@ -22,7 +22,7 @@
   
   [![satramadhani's Statistics](https://github-readme-stats.vercel.app/api?username=satramadhani&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/satramadhani)
   <br />
-  [![satramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satramadhani&theme=transparent)](https://github.com/satramadhani)
+  [![satramadhani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satramadhani&theme=transparent&layout=compact)](https://github.com/satramadhani)
 
 </div>
 <br />
@@ -31,4 +31,4 @@
 - Blog: `satramadhani.wordpress.com`
 - E-mail: `satramadhani@outlook.co.id`
 - Instagram: `sat.ramadhani` *(Currently Deactivated)*
-- LinkedIn: `satramadhani` *(Currently Deactivated)*
+- LinkedIn: `in/satramadhani` *(Currently Deactivated)*
