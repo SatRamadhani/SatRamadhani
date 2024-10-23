@@ -11,9 +11,9 @@
 
 ## About Me
 - 🔭 Working on **C#** and **.NET Core** projects.
-- 📖 Currently trying to learn **Web Development** and **Software Design**.
+- 📖 Trying to learn **Web Development** and **Software Architecture**.
 - 🤝 Looking to collaborate on... **nothing**. Contact me for collaboration, though.
-- 💬 Let's discuss about some programming languages (C# / Java / PHP), frameworks (ASP.NET / Laravel), or software design (DDD / MVC).
+- 💬 Let's discuss about C#, .NET Core, or Domain-Driven Design.
 - 📫 Reach me through the contact part.
 <br />
 
