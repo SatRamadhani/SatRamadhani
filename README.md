@@ -5,14 +5,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Nickname-Raintechi-lime" />
   <img src="https://img.shields.io/badge/Focus-Backend Development-blue" />
+  <img src="https://img.shields.io/badge/Project-.NET%20Core-purple" />
 </p>
 <br />
 
 ## About Me
-- 🔭 Working on **C#** and **ASP.NET** projects.
-- 📖 Trying to learn **Game Development** and **Software Architecture**.
+- 🔭 Working on **C#** and **.NET Core** projects.
+- 📖 Currently trying to learn **Web Development** and **Software Design**.
 - 🤝 Looking to collaborate on... **nothing**. Contact me for collaboration, though.
-- 💬 Let's discuss about C++, C#, or Java.
+- 💬 Let's discuss about some programming languages (C# / Java / PHP), frameworks (ASP.NET / Laravel), or software design (DDD / MVC).
 - 📫 Reach me through the contact part.
 <br />
 
